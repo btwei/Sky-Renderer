@@ -1,0 +1,9 @@
+# Ignore build files
+/build/
+/bin/
+
+# Ignore IDE and editor files
+/.vscode/
+
+# Ignore Mac files
+.DS_Store
