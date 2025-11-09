@@ -29,6 +29,7 @@ private:
 
     VkQueue _graphicsQueue;
     uint32_t _graphicsFamilyIndex;
+    VkQueue _presentQueue;
 
     VkSwapchainKHR _swapchain;
     VkExtent2D _swapchainExtent;
